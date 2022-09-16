@@ -1,0 +1,5 @@
+print('''
+~(^.^)~
+ran with Jenkinsfile
+***
+''')
